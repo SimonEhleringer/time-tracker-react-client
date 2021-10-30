@@ -3,7 +3,8 @@
 ## Introduction
 
 Thank you for sending me this remote assignment. I had a lot of fun working on it.
-I needed about 7 hours to complete the task (30 minutes break).
+The task is almost completed. The only thing that is missing is the feature to pause and resume the timer in the given time.
+I took a break of 30 minutes.
 
 I'm really satisfied with the backend. In my opinion the code is clean and well structured.
 
