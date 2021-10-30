@@ -9,8 +9,8 @@ interface BookedTimeProps {
 const BookedTime: React.FC<BookedTimeProps> = ({ time }) => {
   const { id, startTime, endTime, description } = time;
 
-  const startTimeAsDate = new Date(startTime);
-  const endTimeAsDate = new Date(endTime);
+  const startTimeAsDate = new Date(startTime + 'Z');
+  const endTimeAsDate = new Date(endTime + 'Z');
 
   return (
     <div className='booked-time'>
