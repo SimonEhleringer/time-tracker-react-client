@@ -3,7 +3,7 @@
   border: 1px solid grey;
   border-radius: 5px;
   padding: 5px;
-  display: flex;
-  justify-content: space-around;
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr 1fr 4fr;
   align-items: center;
 }
