@@ -1,0 +1,21 @@
+.book-time-by-start-and-end-form__date-time-pickers {
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.book-time-by-start-and-end-form {
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.book-time-by-start-and-end-form__input-and-button {
+  display: flex;
+  justify-content: center;
+}
+
+.book-time-by-start-and-and-form__heading {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,9 @@
+.booked-time {
+  width: 100%;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

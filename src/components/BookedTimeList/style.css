@@ -1,0 +1,24 @@
+.booked-time-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.booked-time-list__booked-time {
+  padding: 5px 0;
+}
+
+.booked-time-list__input {
+  display: flex;
+  justify-content: center;
+}
+
+.booked-time-list__bottom {
+  padding: 5px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.booked-time-list__page-number {
+  padding: 5px 0;
+  text-align: center;
+}

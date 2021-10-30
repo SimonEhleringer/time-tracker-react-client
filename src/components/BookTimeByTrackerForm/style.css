@@ -1,0 +1,23 @@
+.book-time-by-tracker-form {
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.book-time-by-tracker-form__form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.book-time-by-tracker-form__timer {
+  padding: 10px;
+}
+
+.book-time-by-tracker-form__input-and-button {
+  display: flex;
+}
