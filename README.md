@@ -3,6 +3,11 @@
 ## Introduction
 
 Thank you for sending me this remote assignment. I had a lot of fun working on it.
+I needed about 7 hours to complete the task (30 minutes break).
+
+I'm really satisfied with the backend. In my opinion the code is clean and well structured.
+
+In the frontend there are some improvements that could be done. I'm not satisfied with the time tracker, because I think the code could be cleaner.
 
 ## Setup
 
